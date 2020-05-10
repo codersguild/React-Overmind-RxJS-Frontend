@@ -16,10 +16,10 @@ const App = () => {
     <Router>
       <Switch>
           <Route exact path="/">
-            <LoginPage />
-          </Route>
-          <Route exact path="/home">
             <HomePage />
+          </Route>
+          <Route exact path="/login">
+            <LoginPage />
           </Route> 
       </Switch>
       <ToastContainer />
