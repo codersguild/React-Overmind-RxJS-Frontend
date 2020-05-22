@@ -10,6 +10,7 @@ import './assets/fonts/css/icons.css'
 import App from './components/App';
 
 const overmind = createOvermind(config, {
+  // Install Overmind Devtools in VS-Code. 
   devtools: "http://127.0.0.1:5000"
 })
 
