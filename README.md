@@ -1,14 +1,16 @@
+![Node.js CI](https://github.com/codersguild/React-Overmind-RxJS-Frontend/workflows/Node.js%20CI/badge.svg?branch=master)
+
 ### Custom React Template 
 
-1. Applicaction State : Overmind
+1. Applicaction State : Overmind.js
 
-2. App : React-App
+2. App : React-App from CRA
 
-3. Axios instead of Fetch
+3. Axios instead of Fetch for HTTP Requets
 
-4. Deployment : Firebase / GCP.
+4. Deployment : Firebase / GCP. 
 
-5. Real Time : Sockets. 
+5. Real Time : Sockets & WSS
 
 6. Tailwind CSS.
 
