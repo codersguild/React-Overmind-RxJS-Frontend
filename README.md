@@ -2,7 +2,7 @@
 
 ### Custom React Template 
 
-1. Applicaction State : Overmind.js
+1. Applicaction State : Overmind.js [Overmind](https://overmindjs.org/)
 
 2. App : React-App from CRA
 
@@ -12,6 +12,6 @@
 
 5. Real Time : Sockets & WSS
 
-6. Tailwind CSS.
+6. Tailwind CSS. [TailWind](https://tailwindcss.com/)
 
 7. RxJS Observables.
