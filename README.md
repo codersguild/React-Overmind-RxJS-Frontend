@@ -15,3 +15,8 @@
 6. Tailwind CSS. [TailWind](https://tailwindcss.com/)
 
 7. RxJS Observables.
+
+
+## React & Relay + GraphQL Example. 
+
+[How to create the F8 App?](https://makeitopen.com/) 
