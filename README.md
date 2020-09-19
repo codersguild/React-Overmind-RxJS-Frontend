@@ -19,6 +19,8 @@
 
 ## React & Relay + GraphQL Example. 
 
-[How to create the F8 App?](https://makeitopen.com/) 
-
-[Roadmap](https://roadmap.sh/react)
+- [How to create the F8 App?](https://makeitopen.com/) 
+- [Roadmap](https://roadmap.sh/react)
+- [Learn these before writing React](https://reactjs.org/docs/hooks-rules.html)
+- [What Matters ?](https://francodalessio.com/users-care-about-how-you-write-code/)
+- [React faster than it breaks](https://francodalessio.com/never-call-a-react-function-component/)
