@@ -24,3 +24,8 @@
 - [Learn these before writing React](https://reactjs.org/docs/hooks-rules.html)
 - [What Matters ?](https://francodalessio.com/users-care-about-how-you-write-code/)
 - [React faster than it breaks](https://francodalessio.com/never-call-a-react-function-component/)
+
+
+# New : 
+
+- [https://github.com/preactjs/wmr](https://github.com/preactjs/wmr)
