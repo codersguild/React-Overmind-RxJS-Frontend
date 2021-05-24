@@ -1,4 +1,4 @@
-![Node.js CI](https://github.com/codersguild/React-Overmind-RxJS-Frontend/workflows/Node.js%20CI/badge.svg?branch=master)
+![Node.js GitHub CI](https://github.com/codersguild/React-Overmind-RxJS-Frontend/workflows/Node.js%20CI/badge.svg?branch=master)
 
 ### Custom React Template 
 
