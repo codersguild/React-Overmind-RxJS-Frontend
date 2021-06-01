@@ -30,3 +30,4 @@
 
 - [https://github.com/preactjs/wmr](https://github.com/preactjs/wmr)
 - [https://mherman.org/blog/dockerizing-a-react-app/](https://mherman.org/blog/dockerizing-a-react-app/)
+- [Basic Structuring of a React App](https://www.freecodecamp.org/news/a-better-way-to-structure-react-projects/)
