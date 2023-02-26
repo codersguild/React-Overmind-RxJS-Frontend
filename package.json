@@ -20,7 +20,7 @@
     "firebase": "^7.14.2",
     "overmind": "^23.0.1",
     "overmind-react": "^24.0.1",
-    "qs": "^6.9.3",
+    "qs": "^6.9.7",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-hot-loader": "^4.12.21",
